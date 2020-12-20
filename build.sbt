@@ -1,6 +1,6 @@
 name := "gitbucket-users-plugin"
 organization := "io.github.gitbucket"
-version := "1.0.2"
+version := "2.0.0"
 
-scalaVersion := "2.12.4"
-gitbucketVersion := "4.23.1"
+scalaVersion := "2.13.3"
+gitbucketVersion := "4.35.0"
