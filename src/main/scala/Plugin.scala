@@ -10,7 +10,8 @@ class Plugin extends gitbucket.core.plugin.Plugin {
   override val versions: List[Version] = List(
     new Version("1.0.0"),
     new Version("1.0.1"),
-    new Version("1.0.2")
+    new Version("1.0.2"),
+    new Version("2.0.0")
   )
 
   override val globalMenus = Seq(
